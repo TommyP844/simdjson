@@ -107,3 +107,8 @@ objs
 
 # clangd
 .cache
+
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
